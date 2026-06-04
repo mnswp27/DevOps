@@ -1,3 +1,4 @@
 # DevOps
-This repository for DevOps
-AUthor- Manish Kumar
+This repository for DevOps.
+<br>
+Author- =Manish Kumar
